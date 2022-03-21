@@ -1,3 +1,4 @@
+This repository contains implementation of State Estimation using Kalman Filter, Extended Kalman Filter and Unscented Kalman Filter
 xdot=A(x)*x+Gamma*u+d
 y=G(x)+v
 main.m : Contains code to three filters kf, ekf and ukf
